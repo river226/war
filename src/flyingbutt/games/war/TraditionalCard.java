@@ -1,4 +1,4 @@
-
+package flyingbutt.games.war;
 /* 
  * Extends the Card class, this class is meant for cards of the traditional card deck that contains four suits(Hearts, Spades, Diamonds and Clubs) and 13 
  * 
