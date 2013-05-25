@@ -1,4 +1,4 @@
-
+package flyingbutt.games.war;
 /*
  * A generic card class, more exists to be extended off of then to be actually used. Only stores a name. 
  * 
