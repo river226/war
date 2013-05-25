@@ -1,3 +1,4 @@
+package flyingbutt.games.war;
 import java.util.Collections;
 import java.util.Stack;
 
